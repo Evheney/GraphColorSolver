@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml>
+    <graph id="Graph" uidGraph="10" uidEdge="10030">
+        <nodes>
+            <node positionX="580" positionY="10" id="0" mainText="0" upText=""></node>
+            <node positionX="480" positionY="188" id="1" mainText="1" upText=""></node>
+            <node positionX="800" positionY="138" id="2" mainText="2" upText=""></node>
+            <node positionX="350" positionY="142" id="3" mainText="3" upText=""></node>
+            <node positionX="670" positionY="188" id="4" mainText="4" upText=""></node>
+            <node positionX="580" positionY="127" id="5" mainText="5" upText=""></node>
+            <node positionX="645" positionY="290" id="6" mainText="6" upText=""></node>
+            <node positionX="730" positionY="409" id="7" mainText="7" upText=""></node>
+            <node positionX="430" positionY="411" id="8" mainText="8" upText=""></node>
+            <node positionX="520" positionY="294" id="9" mainText="9" upText=""></node>
+        </nodes>
+        <edges>
+            <edge vertex1="2" vertex2="0" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10006" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="3" vertex2="0" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10009" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="3" vertex2="1" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10010" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="4" vertex2="1" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10012" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="4" vertex2="2" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10013" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="5" vertex2="0" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10015" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="6" vertex2="1" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10018" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="6" vertex2="5" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10019" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="7" vertex2="2" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10021" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="7" vertex2="6" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10022" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="8" vertex2="3" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10024" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="8" vertex2="7" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10025" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="9" vertex2="4" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10027" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="9" vertex2="5" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10028" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+            <edge vertex1="9" vertex2="8" isDirect="false" weight="1" useWeight="false" hasPair="false" id="10029" text="" arrayStyleStart="" arrayStyleFinish=""></edge>
+        </edges>
+    </graph>
+</graphml>
