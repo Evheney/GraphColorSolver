@@ -1,1 +1,1 @@
-GraphColorer is a simple yet interesting approach to famous problem of graphs: "Color the verticies of Graph in as less colors as possible" It was created using C++ and QT and there are sample program available to use.
+GraphColorSolver is a simple yet interesting approach to famous problem of graphs: "Color the verticies of Graph in as less colors as possible" It was created using C++ and QT and there are sample program available to use.
